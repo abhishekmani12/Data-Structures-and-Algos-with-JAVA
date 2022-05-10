@@ -1,3 +1,5 @@
+//UNSTABLE SORT
+
 package dsandalgo;
 
 public class Main {
@@ -35,3 +37,6 @@ public class Main {
         }
     }
 }
+
+
+//STABLE SORT
