@@ -59,3 +59,11 @@ public class Main {
 
 
 }
+
+/* To sort in Descending order: (Aside from altering the print statement)
+
+Line 36: change '<=' to '>='
+
+Line 50: change '<=' to '>='
+
+*/
